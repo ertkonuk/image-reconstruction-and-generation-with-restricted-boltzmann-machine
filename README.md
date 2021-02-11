@@ -4,8 +4,6 @@ Pytorch implementation of the Restricted Boltzmann Machine for the reconstructio
 
 References: Fischer, Asja and Igel, Christian, An introduction to Restricted Boltzmann Machines
 
-Dataset: https://grouplens.org/datasets/movielens/
-
 ### Original Images
 ![Original images](real.png?raw=true "Original images")
 
