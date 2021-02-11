@@ -1,6 +1,6 @@
 # image reconstruction and generation with Restricted Boltzmann Machine
 
-Pytorch implementation of the Restricted Boltzmann Machine for the reconstruction and classification of the MNIST dataset.
+Pytorch implementation of the Restricted Boltzmann Machine for the reconstruction and classification of the MNIST dataset. See the notebook for more details.
 
 References: Fischer, Asja and Igel, Christian, An introduction to Restricted Boltzmann Machines
 
